@@ -1,3 +1,4 @@
+'''
 Feeling of Power
 Isaac Asimov
 Jehan Shuman was used to dealing with the men in authority on long-embattled earth.
@@ -34,3 +35,4 @@ He said, "Is this the gift you brought us here to demonstrate. An illusionist?"
 "More than that, sir. Aub has memorized a few operations and with them he
 computes on paper."
 "A paper computer?" said the general. He looked pained.
+'''
